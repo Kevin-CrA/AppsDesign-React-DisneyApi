@@ -41,5 +41,5 @@ Character information screen:
 
 Coevaluation: Joshua Aviles
 <div>
-<img src="https://user-images.githubusercontent.com/81263716/159417795-048b8ada-ad4f-461f-abd7-03a5526d3037.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159417795-048b8ada-ad4f-461f-abd7-03a5526d3037.jpg" width="750">
 </div>
