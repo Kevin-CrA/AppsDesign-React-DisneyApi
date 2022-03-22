@@ -51,8 +51,8 @@ const styles=StyleSheet.create({
         marginBottom:20,
         position:"relative",
         alignSelf:"center",
-        width:250,
-        height:250,
+        width:280,
+        height:260,
         borderRadius:100,
         borderColor:"lightblue",
         borderWidth:5,
@@ -88,7 +88,7 @@ const styles=StyleSheet.create({
         fontFamily:"serif",
         textShadowOffset: {width: 2, height: 2},
         textShadowRadius: 10,
-        textShadowColor: 'blue',
+        textShadowColor: 'green',
     },
     
 });
