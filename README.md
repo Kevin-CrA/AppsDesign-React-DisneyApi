@@ -20,7 +20,8 @@ Splash screen:
 <img src="https://user-images.githubusercontent.com/81263716/159396518-983b25c4-41d9-454e-b8ca-2d55da4171d0.jpeg" width="250">
 <img src="https://user-images.githubusercontent.com/81263716/159396561-906dfa14-6ed6-4f93-9586-4a47829ab0dd.jpeg" width="250">
 </div>
-
+<h4>Description</h4>
+<p>The Splash screen is something that almost every mobile app has, it has an image of the app as well as the title of it in order to introduce the app to the user, this splash screen appears when the app is initialized </p>
 Searchbar:
 <div>
 <img src="https://user-images.githubusercontent.com/81263716/159396606-7d840118-8934-4d62-aea6-7e44f06c0d2e.jpeg" width="250">
@@ -32,7 +33,8 @@ Characters screen:
 <div>
 <img src="https://user-images.githubusercontent.com/81263716/159396651-48647968-fc9c-4b98-91d5-6208508fb49e.jpeg" width="250">
 </div>
-
+<h4>Description</h4>
+<p>The characters screen is the first screen that appears after the splash screen, and its where we can see all the characters that we got using the Rick and Morty api as well as their characteristics, and this screen works as the main screen of the app </p>
 Character information screen:
 <div>
 <img src="https://user-images.githubusercontent.com/81263716/159396678-34de05d1-0ed3-4858-835a-9fd67bb7b9ea.jpeg" width="250">
