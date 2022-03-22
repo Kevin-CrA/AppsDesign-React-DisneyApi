@@ -26,7 +26,8 @@ Searchbar:
 <img src="https://user-images.githubusercontent.com/81263716/159396606-7d840118-8934-4d62-aea6-7e44f06c0d2e.jpeg" width="250">
 <img src="https://user-images.githubusercontent.com/81263716/159396628-1a8e0e65-2d4f-4f8d-ad23-e720448cf97d.jpeg" width="250">
 </div>
-
+<h4>Description</h4>
+<p>The searchbar is to let the user search for a specific disney character, at the moment that you start typing, the searchbar will show you the possible results of the character that you may want.</p>
 Characters screen:
 <div>
 <img src="https://user-images.githubusercontent.com/81263716/159396651-48647968-fc9c-4b98-91d5-6208508fb49e.jpeg" width="250">
