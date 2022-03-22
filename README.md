@@ -36,3 +36,10 @@ Character information screen:
 <div>
 <img src="https://user-images.githubusercontent.com/81263716/159396678-34de05d1-0ed3-4858-835a-9fd67bb7b9ea.jpeg" width="250">
 </div>
+
+
+
+Coevaluation: Joshua Aviles
+<div>
+<img src="https://user-images.githubusercontent.com/81263716/159417795-048b8ada-ad4f-461f-abd7-03a5526d3037.jpg" width="250">
+</div>
