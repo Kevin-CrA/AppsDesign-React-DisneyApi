@@ -2,9 +2,11 @@
 Computer program using controls used in the design of mobile device forms: lists, buttons, text, images, tables, tabs, toolbars, menus and widgets with access to data.
 
 <div>
+<h3>---------------------------------------- </h3>
 <h3>Kevin Cruz</h3>
 <h3>David Enriquez</h3>
 <h3>Kevin Parra</h3>
+<h3>---------------------------------------- </h3>
 </div>
 
 React Native application using the third party api about Disney. Apps Design
