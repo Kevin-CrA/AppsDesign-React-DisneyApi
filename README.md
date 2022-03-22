@@ -36,6 +36,8 @@ Characters screen:
 Character information screen:
 <div>
 <img src="https://user-images.githubusercontent.com/81263716/159396678-34de05d1-0ed3-4858-835a-9fd67bb7b9ea.jpeg" width="250">
+<h4>Description</h4>
+<p>Here, in this screen once we already select the specific character, we are going to be able to see some other information or data that the api can show us about the disney character, all the information is base in a categorie but depending of the character or the list, you can have some different details.</p>
 </div>
 
 
