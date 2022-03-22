@@ -29,7 +29,7 @@ Searchbar:
 
 Characters screen:
 <div>
-<img src="(https://user-images.githubusercontent.com/81263716/159396651-48647968-fc9c-4b98-91d5-6208508fb49e.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159396651-48647968-fc9c-4b98-91d5-6208508fb49e.jpeg" width="250">
 </div>
 
 Character information screen:
