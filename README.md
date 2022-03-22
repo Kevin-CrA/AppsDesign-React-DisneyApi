@@ -17,24 +17,22 @@ Application where consumes and API that has infomation about the Disney characte
 
 Splash screen:
 <div>
-<img src="" width="250">
-<img src="" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159396518-983b25c4-41d9-454e-b8ca-2d55da4171d0.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159396561-906dfa14-6ed6-4f93-9586-4a47829ab0dd.jpeg" width="250">
 </div>
 
 Searchbar:
 <div>
-<img src="" width="250">
-<img src="" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159396606-7d840118-8934-4d62-aea6-7e44f06c0d2e.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159396628-1a8e0e65-2d4f-4f8d-ad23-e720448cf97d.jpeg" width="250">
 </div>
 
 Characters screen:
 <div>
-<img src="" width="250">
-<img src="" width="250">
+<img src="(https://user-images.githubusercontent.com/81263716/159396651-48647968-fc9c-4b98-91d5-6208508fb49e.jpeg" width="250">
 </div>
 
 Character information screen:
 <div>
-<img src="" width="250">
-<img src="" width="250">
+<img src="https://user-images.githubusercontent.com/81263716/159396678-34de05d1-0ed3-4858-835a-9fd67bb7b9ea.jpeg" width="250">
 </div>
