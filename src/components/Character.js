@@ -44,17 +44,17 @@ const styles = StyleSheet.create({
     spacing:{
         flex:1,
         flexDirection: "row",
-        paddingRight: 10,
-        paddingTop:10,
-        paddingLeft:10,
+        paddingRight: 11,
+        paddingTop:11,
+        paddingLeft:11,
         
     },
     image:{
         position: "relative",
-        width: 180,
-        height: 180,
-        borderTopLeftRadius: 10,
-        borderBottomLeftRadius: 10,
+        width: 185,
+        height: 185,
+        borderTopLeftRadius: 11,
+        borderBottomLeftRadius: 11,
     },
     character__info:{
         flex:1,
@@ -68,19 +68,19 @@ const styles = StyleSheet.create({
         borderBottomRightRadius: 10,
     },
     character__name:{
-        height: 70,
+        height: 75,
         borderBottomLeftRadius: 5,
         borderBottomRightRadius: 5,
         color: 'navy',
-        fontSize: 30,
+        fontSize: 31,
         fontWeight: "bold",
         textAlignVertical: "center",
         fontFamily:"serif",
-        textShadowOffset: {width: 2, height: 2},
+        textShadowOffset: {width: 3, height: 3},
         textShadowRadius: 10,
         textShadowColor: 'honeydew',
     },
     character__data: {
-        marginBottom:10,
+        marginBottom:11,
     },
 });
